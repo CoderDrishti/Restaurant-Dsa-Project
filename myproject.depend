@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1719942637 source:c:\users\hp\desktop\dekstop\codeblocksthings\myproject\main.cpp
+	<iostream>
+	<limits.h>
+	<iomanip>
+
